@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Визитка</string>
+    <string name="my_name">Кленов Степан</string>
+    <string name="my_group">Группа: Б23-191-1</string>
+    <string name="my_email">kpozilaa@gmail.com</string>
+    <string name="my_phone">+7 (999) 999-99-99</string>
+    <string name="my_telegram">kakoitotg</string>
+</resources>

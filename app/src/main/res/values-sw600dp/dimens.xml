@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="logo_size">180dp</dimen>
+    <dimen name="icon_size">32dp</dimen>
+
+    <dimen name="text_size_name">36sp</dimen>
+    <dimen name="text_size_group">24sp</dimen>
+    <dimen name="text_size_contact">20sp</dimen>
+
+    <dimen name="margin_top_logo">80dp</dimen>
+    <dimen name="margin_top_name">30dp</dimen>
+    <dimen name="margin_top_group">20dp</dimen>
+    <dimen name="margin_top_contacts">60dp</dimen>
+    <dimen name="margin_between_contacts">30dp</dimen>
+    <dimen name="margin_icon_text">15dp</dimen>
+</resources>
